@@ -12,7 +12,6 @@ import android.content.Context;
 /**
  * 缓存工具
  * 
- * @author ving
  *
  */
 public class CacheTools {
