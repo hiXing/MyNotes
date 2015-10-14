@@ -7,7 +7,9 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
 
+
 import android.content.Context;
+import android.util.Log;
 
 /**
  * 缓存工具
@@ -120,7 +122,7 @@ public class CacheTools {
 					}
 				} catch (Exception e) {
 					cnt++;
-//					MyLog.i(TAG, "清除缓存失败,正在尝试第" + cnt + "清除缓存");
+					Log.i(TAG, "清除缓存失败,正在尝试第" + cnt + "清除缓存");
 				}
 			}
 			return deletedFiles;
