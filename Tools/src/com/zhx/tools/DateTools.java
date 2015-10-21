@@ -1,4 +1,4 @@
-package com.tools.tools;
+package com.zhx.tools;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
