@@ -1,0 +1,15 @@
+language: android
+jdk: openjdk7
+android:
+  components:
+    - build-tools-22.0.1
+    - extra-android-support
+    - extra-android-m2repository
+    - android-22
+  licenses:
+    - '.+'
+script:
+  # Sonatype bypass
+  - echo "nexusUsername=dummy" >> library/gradle.properties
+  - echo "nexusPassword=dummy" >> library/gradle.properties
+  - ./gradlew clean assemble check
