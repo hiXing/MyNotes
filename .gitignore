@@ -25,5 +25,36 @@ tmp/
 *.tmp
 
 # Java class files
-
 *.class
+
+# OSX
+
+.DS_Store
+
+
+
+# Gradle
+
+.gradle
+build
+
+
+
+# IDEA
+
+*.iml
+
+*.ipr
+
+*.iws
+out
+
+.idea
+
+
+# Maven
+target
+
+release.properties
+
+pom.xml.*
