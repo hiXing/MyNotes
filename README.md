@@ -16,9 +16,10 @@
 
 * [关于使用开源组件SlidingMenu的详细介绍](http://blog.csdn.net/vipzjyno1/article/details/23614675)
 
+---------------------------------------------------------------------------------
 
 ## 配色网站
-* [优设网]http://www.uisdc.com/new-for-designers-january-2016?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+* [优设网](http://www.uisdc.com/new-for-designers-january-2016?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * https://www.android-libs.com/
 * http://www.materialpalette.com/
 * http://colorhunt.co/
@@ -26,3 +27,13 @@
 * http://www.transformicons.com/
 * https://www.appvirality.com/
 * https://www.behance.net/
+
+---------------------------------------------------------------------------------
+## 图片处理
+* [在线压缩处理](https://tinypng.com/)
+* [方酷](http://www.fondcool.com/download.html?&p=5#post_list)
+* [站长之家](http://sc.chinaz.com/info/130510207199.htm)
+* [UI4APP](http://ui4app.com/category/loginregiste)
+* [学UI网](http://www.xueui.cn/)
+* [android Button Maker是一个在线生成Android应用按钮代码的工具](http://angrytools.com/android/button/)
+* http://romannurik.github.io/AndroidAssetStudio/
