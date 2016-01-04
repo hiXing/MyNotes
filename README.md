@@ -37,3 +37,11 @@
 * [学UI网](http://www.xueui.cn/)
 * [android Button Maker是一个在线生成Android应用按钮代码的工具](http://angrytools.com/android/button/)
 * http://romannurik.github.io/AndroidAssetStudio/
+
+--------
+## 随身调试工具
+* [GT（随身调）是APP的随身调测平台，它是直接运行在手机上的“集成调测环境”(IDTE, Integrated Debug&Test Environment)](http://gt.tencent.com/)  
+	1.(/Tools/APK/)
+
+
+
