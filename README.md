@@ -40,8 +40,7 @@
 
 --------
 ## 随身调试工具
-* [GT（随身调）是APP的随身调测平台，它是直接运行在手机上的“集成调测环境”(IDTE, Integrated Debug&Test Environment)](http://gt.tencent.com/)  
-	1.(/Tools/APK/)
+* [GT（随身调）是APP的随身调测平台，它是直接运行在手机上的“集成调测环境”(IDTE, Integrated Debug&Test Environment)](http://gt.tencent.com/)
 
 
 
