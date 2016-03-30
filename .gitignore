@@ -1,0 +1,61 @@
+# Built application files
+
+*.apk
+!APK
+
+*.ap_
+
+
+# Files for ART and Dalvik VM
+*.dex
+
+# Generated files
+bin/
+gen/
+
+# Eclipse project files
+
+.classpath
+
+.project
+
+.metadata
+
+.settings/
+tmp/
+*.tmp
+
+# Java class files
+*.class
+
+# OSX
+
+.DS_Store
+
+
+
+# Gradle
+
+.gradle
+build
+
+
+
+# IDEA
+
+*.iml
+
+*.ipr
+
+*.iws
+out
+
+.idea
+
+
+# Maven
+target
+
+release.properties
+
+pom.xml.*
