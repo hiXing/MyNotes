@@ -1,11 +1,7 @@
-
 # Built application files
-
 *.apk
 !APK
-
 *.ap_
-
 
 # Files for ART and Dalvik VM
 *.dex
@@ -15,13 +11,9 @@ bin/
 gen/
 
 # Eclipse project files
-
 .classpath
-
 .project
-
 .metadata
-
 .settings/
 tmp/
 *.tmp
@@ -39,6 +31,7 @@ tmp/
 
 .gradle
 build
+/build
 
 
 
