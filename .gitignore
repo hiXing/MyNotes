@@ -1,3 +1,4 @@
+
 # Built application files
 
 *.apk
@@ -51,11 +52,3 @@ build
 out
 
 .idea
-
-
-# Maven
-target
-
-release.properties
-
-pom.xml.*
