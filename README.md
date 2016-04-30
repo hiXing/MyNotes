@@ -5,9 +5,16 @@
 ## 干货
 
 * Maven中央仓库信息速查 [http://maven.outofmemory.cn/]
+
 * [干货集中营](http://gank.io/)
+
 * [google git](https://android.googlesource.com/)
+
 * [google sample](https://github.com/googlesamples/android-architecture)
+
+
+
+
 
 * https://github.com/JakeWharton
   
