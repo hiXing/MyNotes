@@ -2,14 +2,13 @@
 
 学习中的 Tips
 -----------
-## 好东西
+## 干货
+
 * Maven中央仓库信息速查 [http://maven.outofmemory.cn/]
 * [干货集中营](http://gank.io/)
 * [google git](https://android.googlesource.com/)
-* 
+* [google sample](https://github.com/googlesamples/android-architecture)
 
----------------------------------------------------------------------------------
-## 大神git地址
 * https://github.com/JakeWharton
   
 * https://github.com/nostra13/Android-Universal-Image-Loader
