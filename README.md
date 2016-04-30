@@ -4,8 +4,8 @@
 -----------
 ## 好东西
 * Maven中央仓库信息速查 [http://maven.outofmemory.cn/]
-
 * [干货集中营](http://gank.io/)
+* [google git](https://android.googlesource.com/)
 
 ---------------------------------------------------------------------------------
 ## 大神git地址
@@ -13,7 +13,7 @@
   
 * https://github.com/nostra13/Android-Universal-Image-Loader
 	
-* https://github.com/hongyangAndroid/okhttp-utils
+* https://github.com/hongyangAndroid/
  
 * https://github.com/getlantern
  
