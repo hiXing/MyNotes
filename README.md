@@ -36,6 +36,11 @@
 * [关于算法](http://blog.csdn.net/v_JULY_v)
 * [算法资料](https://github.com/pedrovgs/Algorithms)
 
+	获取设备标识
+* http://www.cnblogs.com/lvcha/p/3721091.html
+* http://www.cnblogs.com/tyjsjl/p/3585051.html
+* http://blog.csdn.net/ljz2009y/article/details/22895297
+
 
 ---------------------------------------------------------------------------------
 
