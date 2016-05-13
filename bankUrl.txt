@@ -1,6 +1,4 @@
-兴业快卡  http://url.cn/evY7Ou
 
-广发快卡  https://wap.cgbchina.com.cn/creditCardApplyIn.do?shortUrl=BKbH5mo
 
 "data_url":"http://www.10100000.com/Market/c/index.html?utm_source=MKT_360_PP&utm_medium=CPC&utm_campaign=Market-c&WT.mc_id=CXX-360pp-002&",
 
@@ -59,9 +57,7 @@
 "data_url":"http://creditcard.ccb.com/ccbweixin/credit_card_application/form.html",
 "data_url":"https://wap-ebank.pingan.com/weixin/modules/online_apply_card/index.html?scc=920000002#/showCards",
 "data_url":"http://creditcard.ecitic.com/go/Channel/860834?main=1",
-"data_url":"http://loan.ppdai.com/borrow",
-"data_url":"http://m.rong360.com/credit/f-card-level2",
-"data_url":"https://www.yirendai.com/borrowguide",
+
 
 
 

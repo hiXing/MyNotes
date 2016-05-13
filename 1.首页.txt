@@ -1,4 +1,6 @@
-            "data_text": "君赢天下金融",
+    
+	"data_pageName": "君赢天下金融",
+
             "data_text": "君赢天下伴您身边的金融专家",
             "data_pic": "1447065397347_527874.png",
             "data_text": "办卡专区",
@@ -19,7 +21,7 @@
             "data_pic": "1447065366023_670404.png",
 
 
-        "data_text": "宝坤财富金融系统",
+	"data_pageName": "宝坤财富金融系统",
 
             "data_pic": "1447065397347_527874.png",
             "data_text": "办卡专区",
@@ -40,3 +42,14 @@
             "data_text": "征信查询",
             "data_pic": "1447065366023_670404.png",
             "data_text": "张总热线：17053038157",
+
+
+
+	"data_pageName": "微++金融系统",
+
+            "data_text": "加盟合作",
+    	    "data_text": "贷款专区",
+            "data_text": "精养专区",
+            "data_text": "一键提额",
+            "data_text": "VIP专区",
+            "data_text": "办卡专区",
