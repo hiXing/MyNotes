@@ -8,9 +8,9 @@
 
 * [干货集中营](http://gank.io/)
 
-* [google git](https://android.googlesource.com/)
+* [google git](https://android.googlesource.com/)(https://android.googlesource.com/)
 
-* [google sample](https://github.com/googlesamples/android-architecture)
+* [google sample](https://github.com/googlesamples/android-architecture)(https://github.com/googlesamples/android-architecture)
 
 
 
