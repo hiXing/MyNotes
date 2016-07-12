@@ -5,8 +5,8 @@ webview与js交互需要添加
 	``` webView.addJavascriptInterface(new Object(), "call");```
 	
 
-* html调用java代码 报错：
-	** E/Web Console: Uncaught TypeError: Object [object Object] has no method 'toString'**
+* html调用java代码 
+	报错1：`` E/Web Console: Uncaught TypeError: Object [object Object] has no method 'toString' ``
 	
 	在Android4.2以后的版本需要在调用的方法前加注释语句 ``  @JavascriptInterface ``
 	
@@ -15,6 +15,29 @@ webview与js交互需要添加
 			@JavascriptInterface  
 			public String toString() { return "callObject"; }			
 		}  
+	```
+	
+	报错2：`` E/Web Console(19235): Uncaught Error: Error calling method on NPObject. at http://192.168.1.11/mobile/..........js:428 ``
+	
+	大多是Android线程安全的问题,创建子线程进行操作,于是代码改成了下面这样问题就解决了:
+	
+	```
+		new Thread(new Runnable(){
+			@Override
+			public void run(){
+				//code
+			}
+		
+		}).start();
+		
+		//或者
+		Handler handler = new Handler();
+		handler.post(new Runnable(){
+			@Override
+			public void run(){
+				//code
+			}
+		});
 	```
 
 
