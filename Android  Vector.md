@@ -85,7 +85,7 @@ android {
 }
 ```
 
-要兼容普通控件还需要在Activity的前面添加下面代码开启flag：
+要在普通控件中使用，还需要开启flag，在Activity的前面添加下面兼容代码：
 ```
 static {
     AppCompatDelegate.setCompatVectorFromResourcesEnabled(true);
