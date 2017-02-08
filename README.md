@@ -42,10 +42,10 @@
 * [关于算法](http://blog.csdn.net/v_JULY_v)
 * [算法资料](https://github.com/pedrovgs/Algorithms)
 
-	获取设备标识
-* http://www.cnblogs.com/lvcha/p/3721091.html
-* http://www.cnblogs.com/tyjsjl/p/3585051.html
-* http://blog.csdn.net/ljz2009y/article/details/22895297
+* 获取设备标识
+	* http://www.cnblogs.com/lvcha/p/3721091.html
+	* http://www.cnblogs.com/tyjsjl/p/3585051.html
+	* http://blog.csdn.net/ljz2009y/article/details/22895297
 
 
 ---------------------------------------------------------------------------------
@@ -77,11 +77,12 @@
 
 --------
 ## 关于Node.js 和 io.js
-  地址：
-  * [Node.js](https://nodejs.org/en/)
-  * [io.js](https://iojs.org/en/)
-  * [taobao](http://npm.taobao.org/)
-  * [xls-to-json](https://www.npmjs.com/package/xls-to-json)
+地址：
+
+* [Node.js](https://nodejs.org/en/)
+* [io.js](https://iojs.org/en/)
+* [taobao](http://npm.taobao.org/)
+* [xls-to-json](https://www.npmjs.com/package/xls-to-json)
 
 -----------
 
