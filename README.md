@@ -8,7 +8,8 @@
 
 * Android Studio 下载 [http://tools.android.com/download/studio/]
 
-* Maven中央仓库信息速查 [http://maven.outofmemory.cn/]
+* [Maven中央仓库信息速查](http://maven.outofmemory.cn/) http://maven.outofmemory.cn/
+* [Maven查询库](http://mvnrepository.com/) http://mvnrepository.com/
 
 * [干货集中营](http://gank.io/)
 
