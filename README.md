@@ -6,6 +6,10 @@
 -----------
 ## 干货
 
+* HanLP自然语言处理包开源:
+	[官网网址](http://www.hankcs.com/nlp/hanlp.html)
+	[github地址](https://github.com/hankcs/HanLP)
+
 * Android Studio 下载 [http://tools.android.com/download/studio/]
 
 * [Maven中央仓库信息速查](http://maven.outofmemory.cn/) http://maven.outofmemory.cn/
