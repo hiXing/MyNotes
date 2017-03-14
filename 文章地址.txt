@@ -1,0 +1,89 @@
+http://blog.csdn.net/luoyanglizi/article/details/51980630 | Android：学习AIDL，这一篇文章就够了(上) - lypeer的专栏 - 博客频道 - CSDN.NET
+http://blog.csdn.net/luoyanglizi/article/details/51594016 | Android中的Service：Binder，Messenger，AIDL（2） - lypeer的专栏 - 博客频道 - CSDN.NET
+http://blog.csdn.net/eclipsexys/article/details/51956908 | 贝塞尔曲线开发的艺术 - eclipse_xu - 博客频道 - CSDN.NET
+http://blogread.cn/it/article/7855?f=wb | Android安全–ELF文件格式解析 -- Android开发 -- IT技术博客大学习 -- 共学习 共进步！
+https://github.com/wuchangfeng/One | 无法访问 https://github.com/wuchangfeng/One
+http://blog.csdn.net/fancylovejava/article/details/21617553 | Android自定义对话框(Dialog)位置,大小 - fancychendong的专栏 - 博客频道 - CSDN.NET
+
+http://blog.csdn.net/zhangerqing/article/details/8194653 | Java之美[从菜鸟到高手演变]之设计模式 - 智慧演绎，无处不在 - 博客频道 - CSDN.NET
+http://www.jianshu.com/p/27bf1057f5aa | 带你学开源项目：OkHttp--自己动手实现OkHttp - 简书
+http://www.jianshu.com/p/537e2cf2e870 | Android水波动画帮助类，一行代码实现View显示/隐藏/startActivity特效 - 简书
+http://www.jianshu.com/p/f160b787231e | Android 之协调伸缩CoordinatorLayout,CollapsingToolbarLayout - 简书
+http://www.jianshu.com/p/d881183672a5 | 聊聊Android开发中的MVP模式 - 简书
+
+http://www.jb51.net/article/31975.htm | android textview 显示html方法解析_Android_脚本之家
+http://www.jb51.net/article/88049.htm | Android TextView显示Html类解析的网页和图片及自定义标签用法示例_Android_脚本之家
+http://www.cnblogs.com/mxgsa/archive/2012/12/14/2816775.html | Android中Textview显示带html文本二-------【Textview显示本地图片】 - 獨鍆躌踄 - 博客园
+
+http://www.tuicool.com/articles/iu22QnF | [Android] Service服务详解以及如何使service服务不被杀死 - 推酷
+http://blog.csdn.net/mad1989/article/details/22492519 | Android开发之如何保证Service不被杀掉（broadcast+system/app） - 其实并不难,是你太悲观 - 博客频道 - CSDN.NET
+http://blog.csdn.net/mapdigit/article/details/7644134 | Android ApiDemos示例解析(19)：App->Alarm->Alarm Controller - 引路蜂移动软件 - 博客频道 - CSDN.NET
+
+http://www.jb51.net/article/86727.htm | Android自定义ViewGroup实现标签浮动效果_Android_脚本之家
+http://blog.csdn.net/tempersitu/article/details/20557383 | Android 4.4从图库选择图片,获取图片路径并裁剪 - tempersitu的专栏 - 博客频道 - CSDN.NET
+http://www.cnblogs.com/eyu8874521/archive/2012/07/20/2600697.html | Android中从SD卡中/拍照选择图片并进行剪裁的方法 - Mr梵谷 - 博客园
+http://www.open-open.com/lib/view/open1425526186540.html | Android标签流控件的实现 - OPEN 开发经验库
+http://blog.csdn.net/jdsjlzx/article/details/38129569 | Android 标签控件 - 享受技术带来的快乐！ - 博客频道 - CSDN.NET
+http://www.devstore.cn/code/info/1653.html | 自定义侧滑+viewpager+fragment_源码下载_Dev资源_DevStore
+http://www.2cto.com/kf/201311/255842.html | android 后台长时间执行周期性定时任务 解决方案收集 - Android移动开发技术文章_手机开发 - 红黑联盟
+
+http://gank.io/post/560e15be2dca930e00da1083 | 给 Android 开发者的 RxJava 详解
+http://www.cnblogs.com/liuling/archive/2015/12/23/mvp-pattern-android.html | MVP模式在Android项目中的使用 - 残剑_ - 博客园
+http://blog.csdn.net/duo2005duo/article/details/50594757 | Android框架模式（1）-MVP入门 - 博客频道 - CSDN.NET
+http://blog.csdn.net/loongggdroid/article/details/18041147 | Android之判断某个服务是否正在运行的方法 - Android-Home - 博客频道 - CSDN.NET
+http://www.infoq.com/cn/articles/baidu-android-cloud-push/ | 博文共赏：Android推送服务——百度云推送
+
+http://hukai.me/android-training-course-in-chinese/basics/data-storage/database.html | 保存到数据库 | Android官方培训课程中文版(v0.9.5)
+http://www.cnblogs.com/aimeng/archive/2012/05/24/2516547.html | android用户界面之WebView教程实例汇总 - qianqianlianmeng - 博客园
+http://www.cnblogs.com/zhangdongzi/archive/2012/01/08/2316217.html | Android广播BroadcastReceiver - 东子哥 - 博客园
+https://github.com/ChanJLee/YunShuWeather/blob/master/ChanWeather%2Fcircleprogress%2Fsrc%2Fmain%2Fjava%2Fcom%2Fchan%2Fcircleprogress%2FCircleProgress.java | YunShuWeather/CircleProgress.java at master · ChanJLee/YunShuWeather
+http://gavinliu.cn/2016/04/12/Android-%E5%AE%9E%E7%8E%B0%E5%9B%BE%E7%89%87%E5%9C%86%E8%A7%92%E6%98%BE%E7%A4%BA%E7%9A%84%E5%87%A0%E7%A7%8D%E6%96%B9%E5%BC%8F/ | Android - 实现图片圆角显示的几种方式 | Gavin.Liu
+http://blog.csdn.net/lmj623565791/article/details/43371299 | Android 打造形形色色的进度条 实现可以如此简单 - Hongyang - 博客频道 - CSDN.NET
+https://github.com/D-clock/AndroidAlbum | D-clock/AndroidAlbum: Simple Android Album
+https://www.zybuluo.com/shark0017/note/163330 | Log最佳实践 - 作业部落 Cmd Markdown 编辑阅读器
+http://www.jianshu.com/p/5aa9cbde299f | AndroidFlux入门-用Flux构建Android平台的HelloWorld应用 - 简书
+https://pages.github.com/ | GitHub Pages - Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
+http://sparkyuan.me/2016/03/23/AsyncTask%E6%BA%90%E7%A0%81%E5%89%96%E6%9E%90%28API%2023%29/ | AsyncTask源码剖析(API 23) | Spark Yuan
+https://github.com/saiff35/LivingTabs/blob/master/livingtabs%2Fsrc%2Fmain%2Fjava%2Fcom%2Fgithub%2Fsaiff35%2Flivingtabs%2FLivingTabsLayout.java | LivingTabs/LivingTabsLayout.java at master · saiff35/LivingTabs
+https://github.com/zxing/zxing | zxing/zxing: Official ZXing ("Zebra Crossing") project home
+http://www.tuicool.com/articles/3uAVRva | Android自定义控件——ListView的下拉刷新与上拉加载 - 推酷
+
+http://damonzh.github.io/2016/03/10/how-to-use-toolbar-2/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io | 怎么使用Toolbar之给Toolbar加上动画 | DamonZhang
+http://www.jianshu.com/p/5b864cdc221e | Android 代码优化工具 —— Lint Checks - 简书
+http://blog.csdn.net/whyrjj3/article/details/8000740 | Android调用系统内部的下载程序下载文件(二) - 任俊杰的专栏 - 博客频道 - CSDN.NET
+http://www.trinea.cn/android/android-downloadmanager/ | 本文主要介绍Android系统下载管理DownloadManager的强大功能及使用。Android网络应用开发中经常需要下载文件，如音乐、应用、系统升级包。Android下载管理已经提供了功能强大(超乎你的想象)的API供第三方调用
+
+https://github.com/Freelander/Android_Data/blob/master/Android-Librarys-Top-100.md | Android_Data/Android-Librarys-Top-100.md at master · Freelander/Android_Data
+http://2.bcoa.applinzi.com/index.php?m=login&d=webim&a=login&ajaxbool=true&appapikey=baochun | 2.bcoa.applinzi.com/index.php?m=login&d=webim&a=login&ajaxbool=true&appapikey=baochun
+http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.type=clipart&foreground.space.trim=0&foreground.space.pad=0&foreground.clipart=res%2Fclipart%2Ficons%2Faction_account_balance.svg&foreColor=03a9f4%2C0&crop=0&backgroundShape=bevel&backColor=ffffff%2C100&effects=dogear | Android Asset Studio - Icon Generator - Launcher icons
+http://blog.csdn.net/xuehuayous/article/details/50495677 | Java 算法 JSON Bean相互转化及JSON生成实体类 - zwenkai - 博客频道 - CSDN.NET
+http://blog.csdn.net/vipzjyno1/article/details/24664161#comments | Android 仿 窗帘效果 和 登录界面拖动效果 （Scroller类的应用） 附 2个DEMO及源码 - 未来之路 的专栏 - 博客频道 - CSDN.NET
+
+http://blog.csdn.net/never_cxb/article/details/50491558 | Android 仿网易新闻 ViewPager 实现图片自动轮播 - 手把手教你学安卓 - 博客频道 - CSDN.NET
+http://www.jianshu.com/p/e1bc10e75b6d?utm_campaign=hugo&utm_medium=reader_share&utm_content=note&utm_source=weibo | Android 用Canvas 画几何图形，画出小黄人 - 简书
+
+http://blog.csdn.net/never_cxb/article/details/50524571 | Java实现爬虫给App提供数据（Jsoup 网络爬虫） - 手把手教你学安卓 - 博客频道 - CSDN.NET
+
+http://blog.csdn.net/never_cxb/article/details/50495505 | Android Material Design学习之RecyclerView代替 ListView - 手把手教你学安卓 - 博客频道 - CSDN.NET
+https://github.com/TellH/RecyclerViewDemo | TellH/RecyclerViewDemo: Demo for study
+http://115.29.249.40:8080/goodsDef/listGoodsDef?pageno=2 | 115.29.249.40:8080/goodsDef/listGoodsDef?pageno=2
+
+http://www.kuqin.com/shuoit/20141016/342662.html | Android一些经典的开源项目_移动开发_酷勤网
+https://github.com/romannurik/Android-SwipeToDismiss/blob/master/src%2Fcom%2Fexample%2Fandroid%2Fswipedismiss%2FSwipeDismissTouchListener.java | Android-SwipeToDismiss/SwipeDismissTouchListener.java at master · romannurik/Android-SwipeToDismiss
+http://www.jianshu.com/p/03621fce1736 | 就看天气V2.0-RxAndroid+Retrofit+Glide+Matrial Design Weather App - 简书
+
+http://www.tuicool.com/articles/m6fimy | Android之实现滑动开关组件 - 推酷
+http://www.infoq.com/cn/presentations/mobile-phone-taobao-hotpatch-technology-introduction#downloadPdf | 手机淘宝Hotpatch技术介绍
+
+http://mp.weixin.qq.com/s?__biz=MzA3ODI1MjA1NA==&mid=400261817&idx=1&sn=dc0851d6374ef51bf084fe787242c8bd&scene=21#wechat_redirect | 网络安全学习必不可少的一些网站
+https://github.com/hexiaochun/SystemBarTint/blob/master/sample%2Fsrc%2Fcom%2Fchiralcode%2Fcolorpicker%2FColorPicker.java | SystemBarTint/ColorPicker.java at master · hexiaochun/SystemBarTint
+https://github.com/hongyangAndroid/ColorfulStatusBar/blob/master/colorfulstatusbar%2Fsrc%2Fmain%2Fjava%2Fcom%2Fzhy%2Fcolorfulstatusbar%2FStatusBarCompat.java | ColorfulStatusBar/StatusBarCompat.java at master · hongyangAndroid/ColorfulStatusBar
+http://www.apicloud.com/devtools | 开发-APP开发|APP软件开发|WEB APP开发|移动应用开发|HTML5 APP开发-APICloud重新定义移动应用开发
+
+https://github.com/michaldrabik/TapBarMenu | michaldrabik/TapBarMenu: Tap Bar Menu
+http://blog.csdn.net/tellh/article/details/50670458?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io | 偷懒新姿势，打造属于RecyclerView的万能适配器Adapter和ViewHolder - TellH的博客 - 博客频道 - CSDN.NET
+
+http://www.tuicool.com/articles/naiiqay | 从点到面，给Button的属性动画 - 推酷
+https://github.com/alexjlockwood/worker-fragments/blob/master/src%2Fcom%2Fadp%2Fretaintask%2FMainActivity.java | worker-fragments/MainActivity.java at master · alexjlockwood/worker-fragments
+http://android.jobbole.com/80968/?utm_source=top.jobbole.com&utm_medium=relatedArticles | Android 自定义控件玩转字体变色 打造炫酷ViewPager指示器 - 安卓 - 伯乐在线
