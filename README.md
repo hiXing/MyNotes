@@ -6,6 +6,7 @@
 -----------
 ## 干货
 
+
 * HanLP自然语言处理包开源:
 	[官网网址](http://www.hankcs.com/nlp/hanlp.html)
 	[github地址](https://github.com/hankcs/HanLP)
@@ -90,4 +91,48 @@
 * [xls-to-json](https://www.npmjs.com/package/xls-to-json)
 
 -----------
+## 逆向工具
+1.反编译工具
+	 Apktool/Shakaapktool 、smali/baksmali 、dex2jar、enjarify
+	 
+	  https://bitbucket.org/iBotPeaches/apktool/
+	  http://www.rover12421.com/shakaapktool/
+	  https://bitbucket.org/JesusFreke/smali/downloads/
+	  https://github.com/pxb1988/dex2jar
+	  https://github.com/google/enjarify
+	
+	 
+2.静态分析工具
+	android-classyshark、jadx、JD-GUI、BytecodeViewer、Android Killer的使用
+	
+	https://github.com/google/android-classyshark
+	https://github.com/skylot/jadx
+	https://github.com/Konloch/bytecode-viewer
+	http://jd.benow.ca/    |  https://github.com/java-decompiler
+
+
+3.动态调试工具
+	JEB、jdb、Android Studio/Intellij IDEA、gdb、IDA Pro的使用
+	
+	https://www.pnfsoftware.com
+	https://github.com/WooyunDota/DumpDex
+	http://www.cydiasubstrate.com
+
+
+
+4.Hook框架
+	 Cydia Substrate、Xposed、adbi、Frida等。
+	 
+	 https://github.com/rovo89/Xposed
+	 
+
+5.沙盒环境
+	 DroidBox	
+
+6.算法工具
+	JCrypTool/CrypTool http://www.cryptool.org
+	openssl https://github.com/openssl/openssl
+
+
+ 
 
